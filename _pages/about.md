@@ -6,7 +6,7 @@ subtitle: Upcoming MSAII student at CMU | reachprith7@gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profi_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ex MSR Intern</p>
