@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Upcoming MSAII student at CMU | reachprith7@gmail.com
 
